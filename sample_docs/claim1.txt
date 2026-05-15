@@ -1,0 +1,22 @@
+Policy Number: ABC123
+Policyholder Name: Amrutha
+Effective Dates: 20-01-2025 to 20-01-2026
+
+Incident Date: 12-05-2026
+Incident Time: 10:30 AM
+Location: Bangalore
+
+Description:
+Minor accident with rear bumper damage.
+
+Claimant: Amrutha
+Third Parties: None
+Contact Details: 9876543210
+
+Asset Type: Car
+Asset ID: KA01AB1234
+Estimated Damage: 15000
+
+Claim Type: Vehicle Damage
+Attachments: Photos attached
+Initial Estimate: 15000

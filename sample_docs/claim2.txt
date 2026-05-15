@@ -1,0 +1,15 @@
+Policy Number: POL11111
+Policyholder Name: harshitha
+
+Incident Date: 10-05-2026
+Location: Hyderabad
+
+Description:
+Minor scratch on vehicle.
+
+Claimant: harshitha
+
+Asset Type: Car
+Estimated Damage: 10000
+
+Claim Type: Vehicle Damage
